@@ -1,4 +1,5 @@
 # AWS questionnaire
+inspired by tests on LinkedIn and GitHub
 
 - fork repository
 - answer the questions (put `x` inside [])
